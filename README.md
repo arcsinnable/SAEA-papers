@@ -23,8 +23,7 @@ SAEA: Surrogate Assisted Evolutionary Algorithm
 Regis, R. G. (2013). *Evolutionary programming for high-dimensional constrained expensive black-box optimization using radial basis functions.* IEEE Transactions on Evolutionary Computation, 18(3), 326-347.
 [Paper](https://ieeexplore.ieee.org/document/6514561/citations?tabFilter=papers)
 
-
-Regis, R. G. (2013). *Evolutionary programming for high-dimensional constrained expensive black-box optimization using radial basis functions.* IEEE Transactions on Evolutionary Computation, 18(3), 326-347.
+Liu, B., Zhang, Q., & Gielen, G. G. (2013). *A Gaussian process surrogate model assisted evolutionary algorithm for medium scale expensive optimization problems.* IEEE Transactions on Evolutionary Computation, 18(2), 180-192.
 [Paper](https://ieeexplore.ieee.org/abstract/document/6514561)  
 
 
