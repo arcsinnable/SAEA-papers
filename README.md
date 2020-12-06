@@ -4,7 +4,7 @@ Must-read papers about SAEA
 
 SAEA: Surrogate Assisted Evolutionary Algorithm  
 
-## [State-of-the-art Bayesian Optimization Algorithm](#1)
+## [State-of-the-art Algorithm about Bayesian Optimization](#1)
 <a name="1"></a>
 
 [1] **MOEAD-EGO**: Zhang, Q., Liu, W., Tsang, E., & Virginas, B. (2009). Expensive multiobjective optimization by MOEA/D with Gaussian process model. IEEE Transactions on Evolutionary Computation, 14(3), 456-474.
