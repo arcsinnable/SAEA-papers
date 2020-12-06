@@ -4,19 +4,45 @@ Must-read papers about SAEA
 
 SAEA: Surrogate Assisted Evolutionary Algorithm  
 
-
-
-
-
-## [Survey](#1)
+## [State-of-the-art Bayesian Optimization Algorithm](#1)
 <a name="1"></a>
+
+[1] **MOEAD-EGO**: Zhang, Q., Liu, W., Tsang, E., & Virginas, B. (2009). Expensive multiobjective optimization by MOEA/D with Gaussian process model. IEEE Transactions on Evolutionary Computation, 14(3), 456-474.
+[Paper](https://ieeexplore.ieee.org/abstract/document/5353656)
+
+[2] **TSEMO**: Bradford, E., Schweidtmann, A. M., & Lapkin, A. (2018). Efficient multiobjective optimization employing Gaussian processes, spectral sampling and a genetic algorithm. Journal of global optimization, 71(2), 407-438.
+[Paper](https://link.springer.com/article/10.1007/s10898-018-0609-2)
+
+[3] **USeMO-EI**: Belakaria, S., Deshwal, A., & Doppa, J. R. (2020). Uncertainty aware Search Framework for Multi-Objective Bayesian Optimization with Constraints. arXiv preprint arXiv:2008.07029.
+[Paper](https://arxiv.org/abs/2008.07029)
+
+[4] **DGEMO**: Konakovic Lukovic, M., Tian, Y., & Matusik, W. (2020). Diversity-Guided Multi-Objective Bayesian Optimization With Batch Evaluations. Advances in Neural Information Processing Systems, 33.
+[Paper](https://proceedings.neurips.cc//paper/2020/hash/cd3109c63bf4323e6b987a5923becb96-Abstract.html)
+
+[5] **SMS-EGO**: Ponweiser, W., Wagner, T., Biermann, D., & Vincze, M. (2008, September). Multiobjective optimization on a limited budget of evaluations using model-assisted $\mathcal {S} $-metric selection. In International Conference on Parallel Problem Solving from Nature (pp. 784-794). Springer, Berlin, Heidelberg.
+[Paper](https://link.springer.com/chapter/10.1007/978-3-540-87700-4_78)
+
+[6] **PESMO**: Hernández-Lobato, D., Hernandez-Lobato, J., Shah, A., & Adams, R. (2016, June). Predictive entropy search for multi-objective bayesian optimization. In International Conference on Machine Learning (pp. 1492-1501).
+[Paper](http://www.jmlr.org/proceedings/papers/v48/hernandez-lobatoa16.pdf)
+
+[7] **MESMO**: Belakaria, S., Deshwal, A., & Doppa, J. R. (2019). Max-value entropy search for multi-objective bayesian optimization. In Advances in Neural Information Processing Systems (pp. 7825-7835).
+[Paper](https://proceedings.neurips.cc/paper/2019/hash/82edc5c9e21035674d481640448049f3-Abstract.html)
+
+[8] **EHI**: Emmerich, M., & Klinkenberg, J. W. (2008). The computation of the expected improvement in dominated hypervolume of Pareto front approximations. Rapport technique, Leiden University, 34, 7-3.
+[Paper](http://natcomp.liacs.leidenuniv.nl/material/TR-ExI.pdf)
+
+[9] **SUR**: Picheny, V. (2015). Multiobjective optimization using Gaussian process emulators via stepwise uncertainty reduction. Statistics and Computing, 25(6), 1265-1280.
+[Paper](https://link.springer.com/article/10.1007/s11222-014-9477-x)
+
+## [Survey](#2)
+<a name="2"></a>
 
 [1] Jin, Y., Wang, H., Chugh, T., Guo, D., & Miettinen, K. (2018). **Data-driven evolutionary optimization: An overview and case studies.** IEEE Transactions on Evolutionary Computation, 23(3), 442-458.
 [Paper](https://ieeexplore.ieee.org/abstract/document/8456559)
 
 
-## [Single-objective Optimization](#2)
-<a name="2"></a>
+## [Single-objective Optimization](#3)
+<a name="3"></a>
 
 [1] Regis, R. G. (2013). **Evolutionary programming for high-dimensional constrained expensive black-box optimization using radial basis functions.** IEEE Transactions on Evolutionary Computation, 18(3), 326-347.
 [Paper](https://ieeexplore.ieee.org/document/6514561/citations?tabFilter=papers)
@@ -31,8 +57,8 @@ SAEA: Surrogate Assisted Evolutionary Algorithm
 [Paper](https://ieeexplore.ieee.org/abstract/document/8357456)  
 
 
-## [Multi-objective Optimization](#3)  
-<a name="3"></a>
+## [Multi-objective Optimization](#4)  
+<a name="4"></a>
 
 [1] Liu, B., Zhang, Q., & Gielen, G. G. (2013). **A Gaussian process surrogate model assisted evolutionary algorithm for medium scale expensive optimization problems.** IEEE Transactions on Evolutionary Computation, 18(2), 180-192.
 [Paper](https://ieeexplore.ieee.org/abstract/document/6514561)  
@@ -91,8 +117,8 @@ SAEA: Surrogate Assisted Evolutionary Algorithm
 [19] Yang, C., Ding, J., Jin, Y., & Chai, T. (2019). **Offline Data-Driven Multiobjective Optimization: Knowledge Transfer Between Surrogates and Generation of Final Solutions.** IEEE Transactions on Evolutionary Computation, 24(3), 409-423.
 [Paper](https://ieeexplore.ieee.org/abstract/document/8752044)  
 
-## [Application](#4)  
-<a name="4"></a>
+## [Application](#5)  
+<a name="5"></a>
 [1] Wang, S., Liu, J., & Jin, Y. (2019). **Surrogate-Assisted Robust Optimization of Large-scale Networks Based on Graph Embedding.** IEEE Transactions on Evolutionary Computation.
 [Paper](https://ieeexplore.ieee.org/abstract/document/8889655)  
 
